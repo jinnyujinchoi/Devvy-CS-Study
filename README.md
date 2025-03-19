@@ -1,2 +1,2 @@
 # SSAFY-CS-Study
-SSAFY 13th seoul01 CS study
+싸피 13기 서울1반 CS study 입니다.
